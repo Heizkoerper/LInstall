@@ -97,8 +97,7 @@ def main():
         exit("Automatic installation aborted by the user")
 
     # Install the requirements
-    #os.system(f"{package_manager}{get_requirements()}")
-    print(f"{package_manager}{requirements}")
+    os.system(f"{package_manager}{get_requirements()}")
 
 
 
