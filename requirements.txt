@@ -1,0 +1,3 @@
+// Replace this file with your own requirements
+// This file should only contain the package names of the requiremetns that should be installed
+// Lines that start with // are comments and will be ignored as such
